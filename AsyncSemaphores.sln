@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSemaphores", "AsyncSemaphores\AsyncSemaphores.csproj", "{5CB5761D-04D6-4AB0-AE0E-429B14935DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSemaphores.Benchmark", "AsyncSemaphores.Benchmark\AsyncSemaphores.Benchmark.csproj", "{8A0ECC04-F51F-4B2B-A745-414F03AD3E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSemaphores.Tests", "AsyncSemaphores.Tests\AsyncSemaphores.Tests.csproj", "{AC027FD1-8C72-4C74-9596-BF2AA9F56FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB5761D-04D6-4AB0-AE0E-429B14935DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB5761D-04D6-4AB0-AE0E-429B14935DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB5761D-04D6-4AB0-AE0E-429B14935DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB5761D-04D6-4AB0-AE0E-429B14935DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0ECC04-F51F-4B2B-A745-414F03AD3E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0ECC04-F51F-4B2B-A745-414F03AD3E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0ECC04-F51F-4B2B-A745-414F03AD3E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0ECC04-F51F-4B2B-A745-414F03AD3E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC027FD1-8C72-4C74-9596-BF2AA9F56FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC027FD1-8C72-4C74-9596-BF2AA9F56FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC027FD1-8C72-4C74-9596-BF2AA9F56FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC027FD1-8C72-4C74-9596-BF2AA9F56FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
